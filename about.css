@@ -1,0 +1,34 @@
+#landing {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+h1 {
+  font-family: "Black Ops One", cursive;
+  font-size: 4rem;
+  margin-top: 10vw;
+  text-align: center;
+}
+
+#aboutme {
+  margin-left: 10vw;
+  text-align: center;
+  float: left;
+}
+
+#aboutme p {
+  font-size: 1.2rem;
+  margin-top: 2vh;
+}
+
+#aboutpicture {
+  margin-left: 10vw;
+  margin-top: 10vw;
+  width: 25vw;
+  float: right;
+}
+
+#aboutpicture img {
+  border-radius: 50px;
+  box-shadow: 20px -20px 20px #00ff98;
+}

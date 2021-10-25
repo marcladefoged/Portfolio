@@ -1,0 +1,25 @@
+#contactinfo p,
+#contactinfo h1 {
+  text-align: center;
+}
+
+#contactinfo h1 {
+  font-family: "Black Ops One", cursive;
+  font-size: 5rem;
+}
+
+#contactinfo p {
+  font-size: 1.5rem;
+  margin-top: 5vw;
+}
+
+#contactinfo {
+  margin-left: 20vw;
+  margin-top: 5vw;
+  width: 50vw;
+}
+
+#socialmedia {
+  margin-top: 5vw;
+  margin-right: 10vw;
+}
